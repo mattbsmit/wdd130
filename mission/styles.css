@@ -1,0 +1,37 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 1.5;
+}
+
+div.content {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 1in;
+    border: solid lightgrey 1px;
+}
+
+h1, h2 {
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+h2 {
+    color: #006EB6;
+    font-size: 20px;
+    font-weight: 80;
+}
+
+p, ol, li {
+    font-size: 20px;
+}
+
+img {
+    width: 150px;
+    display: block;
+    margin: auto;
+}
